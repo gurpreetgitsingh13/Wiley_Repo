@@ -13,3 +13,7 @@
 13) bottles
 14) water
 15) meat
+Added in production branch
+16) items
+17) perfume
+18) hair products
