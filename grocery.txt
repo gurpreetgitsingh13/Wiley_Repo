@@ -1,0 +1,10 @@
+1) milk
+2) butter
+3) eggs
+4) juice
+5) bread
+6) vegetables
+7) fruits
+8) candy
+9) chocolates
+10) cooking oil
