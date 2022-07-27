@@ -8,3 +8,5 @@
 8) candy
 9) chocolates
 10) cooking oil
+11) chips
+12) more stuff
